@@ -15,5 +15,12 @@
         "psr-4": {
             "Admin\\Contact\\": "src/"
         }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Admin\\Contact\\"
+            ]
+        }
     }
 }
