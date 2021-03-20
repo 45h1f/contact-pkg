@@ -71,7 +71,7 @@
                         </div>
 
                         <div class="text-center">
-                            <input type="submit" value="Submit" class="btn btn-info btn-block rounded-0 py-2">
+                            <input type="submit" value="Submit" class="btn btn-info  rounded-0 py-2">
                         </div>
                     </div>
 
