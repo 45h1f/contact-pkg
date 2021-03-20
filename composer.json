@@ -1,0 +1,19 @@
+{
+    "name": "ashiful/contact",
+    "description": "This is a test contact  package",
+    "type": "library",
+    "license": "mit",
+    "authors": [
+        {
+            "name": "Ashif",
+            "email": "ashiful134@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Admin\\Contact\\": "src/"
+        }
+    }
+}
